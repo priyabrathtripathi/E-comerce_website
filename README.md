@@ -10,4 +10,6 @@ Some key features include:<br>
 --> Checkout Process: A streamlined checkout process with multiple payment options.<br>
 --> Order Tracking: Real-time order tracking for customers to monitor their purchases.<br>
 --> Admin Panel: An admin dashboard for managing products, orders, and user accounts.<br>
+![BeFunky-collage](https://github.com/priyabrathtripathi/E-comerce_website/assets/78248484/80207b7b-5487-48fe-8d93-92924d37f2fe)
+
 
